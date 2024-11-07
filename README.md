@@ -1,6 +1,6 @@
 # perpus_flutter
 
-![Screenshot (56)](https://github.com/user-attachments/assets/88849ec7-8a29-4a0e-b36d-7512dd6830c3)
+![Screenshot Hasil](https://github.com/user-attachments/assets/88849ec7-8a29-4a0e-b36d-7512dd6830c3)
 
 ## Getting Started
 
