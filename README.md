@@ -1,6 +1,6 @@
 # perpus_flutter
 
-A new Flutter project.
+![Screenshot (56)](https://github.com/user-attachments/assets/88849ec7-8a29-4a0e-b36d-7512dd6830c3)
 
 ## Getting Started
 
